@@ -23,6 +23,8 @@
 5. **Connection String**:
    - Example for LocalDB: `"Server=(localdb)\\mssqllocaldb;Database=PatientTestDb;Trusted_Connection=True;"`
    - Place in App.config under `<connectionStrings>` or adjust in DbContext.
+  
+     
 
    <img width="1907" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d20c176-371f-4275-a76c-024a760b02d5" />
 
